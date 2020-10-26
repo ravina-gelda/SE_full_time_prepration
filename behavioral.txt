@@ -1,0 +1,17 @@
+1. What has been your favorite project or proudest accomplishment? Why?
+
+Recently , I have worked on implementing booking portal during summer internship.
+This portal was designed to be used by back officers and customer.  After customer contact back officer with their requirements, back officers use this portal to create multiple packages for inspections of the products as per customers requirement and then this for can be viewed by customer, who can choose package of their choice and continue to payment.
+For this application, I designed the backend system, and restful apis with Python-Django and Cassandra database.
+While designing the apis and data modelling for this applications, 
+I found that adding some features for example: automatic calculation of feature, oauth in the design, 
+the app can be scalable and will have good user experience.  In order to get team member on board with, 
+this idea, I have made documents and presentations in team meetings.  
+Finally, everybody was on board with the idea with some suggestions and new 
+feature addition proved to be beneficial, when the app was tested by Backoffice's, as per the poll.
+
+2. Why do you want to work at Palantir?
+
+My goal is to work in a fast paced growing environment, where 
+I can collaborate to companies success with my problem solving, technical and coding kills. At Palantir , I will get the opportunity to do the same in a collaborative environment, 
+where I can work on Palantir's customer's problem and contribute to their success.

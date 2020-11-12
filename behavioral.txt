@@ -15,3 +15,30 @@ feature addition proved to be beneficial, when the app was tested by Backoffice'
 My goal is to work in a fast paced growing environment, where 
 I can collaborate to companies success with my problem solving, technical and coding kills. At Palantir , I will get the opportunity to do the same in a collaborative environment, 
 where I can work on Palantir's customer's problem and contribute to their success.
+
+(or)
+I believe that I will be a  good fit for this role because it gives me an opportunity 
+to apply my problem solving skills and technical experience in software industry and contribute to company's success. 
+
+3. Why Bolt?
+
+As I start my Career after graduation, I want to be a part of past paced growing environment, where I can  significantly contribute towards companies success. Bolt is the best companies to work for, where I can work on solve challenging problems faced by ecommerce industries which is evolving in these unprecedented times.
+4 tell about yourself and why you would be a good fit at Bolt?
+I am a graduate student at UC Santa Cruz in computer science with interest in learning
+ new technologies and one of my hobby is writing technical blogs.  I offer almost 
+3 years of industrial experience in software engineering. My recent experience as a software developer 
+intern at a startup, where I worked on scalable designing and implementing inspection booking and billing  
+application end to end in MVC framework. Security , authentication, authorization, scalability , stability of 
+application were some of the main parts of the application. I believe that I will be a good fit at Bolt because, 
+along with prior experience of working in similar technologies as Bolt, 
+working for teams with diverse cultures helps me adapt to any culture quickly.
+
+4. 
+Hi,
+
+I am a graduate student in UC Santa Cruz in computer science. I am passionate about learning and implementing new technologies. This summer , I worked as a software developer intern at Movley, where I implemented booking and billing application in Django and Cassandra, end-to end. I have done data modelling and implemented restful apis, deployed the backend on AWS after containerizing with docker. I have written integration tests in groovy.  Apart from these I was also involved in writing UI for the application in react native, using react-native-web. I am currently looking for software engineering roles where I can use my experience, problem solving and coding skills to solve challenging issues and contribute towards companies success. 
+
+I am very interested in working At Ginkgo bioworks, as I will get this opportunity coupled with a great mission of making biology easier to engineer. 
+
+Thanks and regards,
+Ravina
